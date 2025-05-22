@@ -27,7 +27,7 @@ Confirmed speakers this year include Nobel laureates, Fortune 500 CEOs, investor
 
 ## 🎤 Qubic Side Event
 
-Qubic will host its own side event to share **Aigarth Research** (Qubic’s decentralized AI approach). Presenting at AI for Good highlights our role in applying **blockchain** and **AI** together.
+Qubic will host its own side event to share **Aigarth Research** (Qubic’s decentralized AI approach). this will highlights our role in applying **blockchain** and **AI** together.
 
 ---
 
